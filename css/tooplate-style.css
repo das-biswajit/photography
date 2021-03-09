@@ -462,17 +462,6 @@ a:hover, a:active, a:focus {
   opacity: 1;
 }
 
-.pagination {
-    display: inline-block;
-}
-
-.pagination a {
-        color: black;
-        float: left;
-        padding: 8px 16px;
-        text-decoration: none;
-}
-
 
 /*---------------------------------------
    TEAM             
